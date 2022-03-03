@@ -1,6 +1,6 @@
 # Kahoot-Flooder
 I recommend running this on your Computer
-If you don't know how to, follow these steps-
+If you don't know how to, follow these steps
 <ol>
   <li>Install Visual Studio Code (and complete the setup process)</li>
   <li>Install Node from <a href="https://nodejs.org">This Website</a></li>
